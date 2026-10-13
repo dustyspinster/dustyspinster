@@ -1,5 +1,3 @@
-### Hi, I'm Dusty 😼
-
 Senior QA Engineer with 9 years experience across SaaS, medical devices and vertical industries. Focused on creating reliable UI and API test suites in Python. My passion is investigating systems, and creating quality software at the earliest stages of development. 
 
 **Currently:** Open to QA and QA Automation roles · Hybrid in Portland OR, or Remote
